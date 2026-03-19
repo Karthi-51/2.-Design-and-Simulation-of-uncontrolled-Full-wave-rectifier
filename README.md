@@ -55,5 +55,15 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+<img width="1067" height="462" alt="image" src="https://github.com/user-attachments/assets/13657f23-497f-4b46-9e38-2054d1f859f2" />
+
 ## Output
+<img width="1600" height="741" alt="image" src="https://github.com/user-attachments/assets/7368482a-8959-4cfc-ba52-1ce199a5c2e0" />
+at 2 ohm resistance:
+<img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/efd7be0c-fa8c-4bda-8634-8c890567fa6a" />
+at firing angle to 90 degree:
+<img width="1600" height="743" alt="image" src="https://github.com/user-attachments/assets/60f1fe77-2e74-4ea7-a9f5-8a4ee21ee8f2" />
+
+
 ## Result
+Thus,this experiment will be verified successfully.
